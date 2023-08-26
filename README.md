@@ -1,12 +1,12 @@
 # FLDAS and GRACE Hydrological Analysis
 
-This tutorial is to process the data set from FLDAS and GLDAS with many examples.
+This tutorial will guide you through processing the FLDAS and GLDAS datasets with numerous examples. 
 
-## See the tutorial to batch download with wget using the list of links from GES DISC
+### Check out the tutorial to learn how to batch download using wget and a list of links from GES DISC.
 https://github.com/lvsantarosa/NASA-data-download
 
-## FLDAS data set 
+### FLDAS data set 
 https://drive.google.com/drive/folders/1vN38-ITfCfNr8zKqRVOF5A4mDXzyD3S-?usp=sharing
 
-## GRACE data set 
+### GRACE data set 
 https://drive.google.com/drive/folders/1POHPCusc-XGcNavhGnniFnVQrWl56Cgy?usp=sharing
